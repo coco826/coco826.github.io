@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: 313449050@qq.com
 description: "A year's plan depends on spring, and a day's plan is in the morning!"
 keyword: "自动化, SLAM, 目标识别与检测"
-url: "http://cc.github.io"          # your host, for absolute URL
+url: "http://nameiscs.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/nameiscs/cc.github.io.git" # you code repository
 
