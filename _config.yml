@@ -104,5 +104,9 @@ friends: [
     },{
         title: "CSDN",
         href: "https://blog.csdn.net/weixin_51303932?type=blog"
+    },
+    {
+        title: "Github",
+        href: "https://github.com/nameiscs"
     }
 ]
