@@ -1,12 +1,16 @@
 ---
 layout:     post
-title:      C++学习
-subtitle:   函数式编程框架
-date:       2023-12-24
-author:     cc
+title:      ReactiveCocoa 进阶
+subtitle:   函数式编程框架 ReactiveCocoa 进阶
+date:       2017-01-06
+author:     BY
+header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
-    - C++
+    - iOS
+    - ReactiveCocoa
+    - 函数式编程
+    - 开源框架
 ---
 
 # C++基础入门
