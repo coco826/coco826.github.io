@@ -1,4 +1,4 @@
-
+![](https://raw.githubusercontent.com/nameiscs/cc.github.io/master/img/readme-home.png)
 
 博客的搭建教程修改自 [Hux](https://github.com/nameiscs/cc.github.io) 
  
@@ -80,7 +80,7 @@ tags:
 ### 侧边栏
 
 看右边:
-![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-side.png)
+![](https://raw.githubusercontent.com/nameiscs/cc.github.io/master/img/readme-side.png)
 
 设置是在 `_config.yml`文件里面的`Sidebar settings`那块。
 
@@ -139,12 +139,16 @@ featured-condition-size: 1     # A tag will be featured if the size of it is mor
 # Friends
 friends: [
     {
-        title: "BY Blog",
-        href: "https://qiubaiying.github.io/"
+        title: "知乎",
+        href: "[https://www.zhihu.com/people/bu-hui-de-qing-chun-94-78/collections]"
     },
     {
-        title: "Apple",
-        href: "https://apple.com/"
+        title: "CSDN",
+        href: "[https://blog.csdn.net/weixin_51303932?type=blog]"
+    },
+    {
+        title: "Github",
+        href: "[https://github.com/nameiscs]"
     }
 ]
 ```
@@ -202,7 +206,7 @@ disqus_username: qiubaiying
 
 **使用：**
 
-参考我的这篇文章：[《为博客添加 Gitalk 评论插件》](http://qiubaiying.top/2017/12/19/%E4%B8%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0-Gitalk-%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6/)
+参考这篇文章：[《为博客添加 Gitalk 评论插件》](http://qiubaiying.top/2017/12/19/%E4%B8%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0-Gitalk-%E8%AF%84%E8%AE%BA%E6%8F%92%E4%BB%B6/)
 
 
 ### Analytics
@@ -236,7 +240,7 @@ ga_domain: huangxuan.me			# 默认的是 auto, 这里我是自定义了的域名
 
 ### SEO Title
 
-我的博客标题是 **“BY Blog”** 但是我想要在搜索的时候显示 **“柏荧的博客 | BY Blog”** ，这个就需要 SEO Title 来定义了。
+我的博客标题是 **“CC Blog”** 但是我想要在搜索的时候显示 **“一只睡虫 | CC Blog”** ，这个就需要 SEO Title 来定义了。
 
 其实这个 SEO Title 就是定义了<head><title>标题</title></head>这个里面的东西和多说分享的标题，你可以自行修改的。
 
