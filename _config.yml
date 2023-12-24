@@ -1,5 +1,5 @@
 # Site settings
-title: 一只睡虫
+title: CC Blog
 SEOTitle: 一只睡虫 | 一只睡虫's Blog
 header-img: img/post-bg-desk.jpg
 email: 313449050@qq.com
@@ -66,7 +66,7 @@ gitalk:
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
   repo: cc.github.io    #仓库名称
   owner: nameiscs    #github用户名
-  admin: 一只睡虫
+  admin: CC Blog
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
